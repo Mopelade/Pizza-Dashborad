@@ -1,6 +1,6 @@
 # Pizza-Dashborad
 
-![](Pizzafiles/Pizzapic.jpg)
+![](Pizzafiles/pizza.jpg) 
 
 ## Business Problem
 
@@ -16,7 +16,6 @@ Orders - Contains the transaction info (id, date, time)
 Order Details - Contains details of the order
 Pizzas - Contains info on each type of pizza's size and price
 Pizza types - Contains info about each pizza type like name and ingredients
-## Check out the full dataset here!
 
 ## PowerBi Dashboard
 ![](Pizzafiles/PizzaDashboard.PNG)
