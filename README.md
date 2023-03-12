@@ -27,4 +27,13 @@ Busiest times are 12:00 pm - 13:00 pm and 17:00 pm - 18:00pm.
 
 ![](Pizzafiles/Times.PNG)
 
+![](Pizzafiles/totalbyday.PNG)
+
+## The best and worst selling pizzas, how much they generated and total orders.
+
+The best performing Pizza by order is classic Deluxe, had exactly 2,329 orders , however, generated $38,181, while Thai chicken pizza is the best selling generated the most revenue with $43,434 and had 2,225 orders.
+* The under performing pizza by orders and revenue is Brie Carre. It generated $11,589 and had exactly 480 orders the entire year 
+
 ![](Pizzafiles/orders.PNG)
+
+![](Pizzafiles/Renevue.PNG)
