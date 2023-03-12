@@ -37,3 +37,17 @@ The best performing Pizza by order is classic Deluxe, had exactly 2,329 orders ,
 ![](Pizzafiles/orders.PNG)
 
 ![](Pizzafiles/Renevue.PNG)
+
+## How the business did , the total revenue and orders per month and Quarter 
+
+Plato's Pizza Place made $818,860 and had 21,350 pizzas ordered.
+
+![](Pizzafiles/quarter.PNG)
+
+![](Pizzafiles/Month.PNG)
+
+## Recommendations
+After Analyzing the data, I was able to gain valuable insights, they can improve the business.
+I would recommend the following suggestions to the owners.
+* The owner should run a discount on Brie Carre, which is the under-performing pizza, during peak hours especially on Fridays from 12:00 pm - 13:00 pm and 17:00 pm - 18:00 pm. If this doesn't improve its performance , it is advisable it should be d discontinued, as it is not generating enough revenue.
+* It advisable to reduce the working hours to 11am - 10pm. This would help reduce operating cost and also increase profits.
