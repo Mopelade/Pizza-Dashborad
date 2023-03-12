@@ -17,3 +17,14 @@ Pizza types - Contains info about each pizza type like name and ingredients
 ## Check out the full dataset here!
 
 ## PowerBi Dashboard
+![](Pizzafiles/PizzaDashboard.PNG)
+
+## Analysis
+### What days and times are our busiest?
+
+The busiest day of the week is Friday with 3538 total orders and with $136,074 total revenue, an average of 71 orders every Friday. 
+Busiest times are 12:00 pm - 13:00 pm and 17:00 pm - 18:00pm.
+
+![](Pizzafiles/Times.PNG)
+
+![](Pizzafiles/orders.PNG)
