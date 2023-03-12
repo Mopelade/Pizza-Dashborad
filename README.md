@@ -1,5 +1,7 @@
 # Pizza-Dashborad
 
+![](Pizzafiles/Pizzapic.jpg)
+
 ## Business Problem
 
 This week I worked on a pizza company's dataset. Plato's Pizza place is located in New Jersey . The founder collected a year's worth of transactional data with the hopes to improve the business more efficiently.
